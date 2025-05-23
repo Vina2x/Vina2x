@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm an aspiring Full-Stack Web Developer just beginning my
 
 - Complete and share multiple hands-on projects here on GitHub
 - Build a personal portfolio website to track my growth
-- Contribute to at least one open-source project
+- Contribute to a few open-source project
 - Get comfortable with databases like MongoDB and PostgreSQL
 
 ---
