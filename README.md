@@ -53,8 +53,8 @@ To build impactful AI solutions, continuously improve my craft, and turn cutting
 
 ## 📫 Let's Connect
 
-* LinkedIn: [www.linkedin.com/in/vinayak-kushwaha-a194b01a6](http://www.linkedin.com/in/vinayak-kushwaha-a194b01a6)
-* X: x.com/Vinayakstwt
+* LinkedIn: https://www.linkedin.com/in/vinayak-kushwaha2000/
+* X: https://x.com/Vinayakstwt
 * Email: [ku.vinayak2024@gmail.com](mailto:ku.vinayak2024@gmail.com)
 
 ---
