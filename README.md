@@ -1,59 +1,63 @@
 # 👋 Hey there, I'm Vinayak!
 
-Welcome to my GitHub! I'm an aspiring Full-Stack Web Developer just beginning my tech journey. I'm passionate about building real-world applications, learning by doing, and diving deep into modern development tools and practices.
+Passionate about Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building intelligent applications, exploring Large Language Models (LLMs), and creating AI-powered solutions that solve real-world problems.
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Currently Focused On
 
-- Full-Stack Web Development (Frontend: React, Backend: Node.js & Django)
-- Core Java and object-oriented programming
-- Python for scripting, automation, and small projects
-- DevOps basics: Git, CI/CD, Docker, and cloud fundamentals
-
----
-
-## 🔭 Working On
-
-- Building foundational projects to master HTML, CSS, JavaScript, and React
-- Creating REST APIs with Python (Flask) and Java (Spring Boot)
-- Learning to deploy simple apps using Docker and GitHub Actions
-- Practicing version control with Git and GitHub
+* Machine Learning & Deep Learning
+* Generative AI and Large Language Models (LLMs)
+* AI Agents & Automation
+* Python for AI Development
+* MLOps and AI Deployment
 
 ---
 
-## 🎯 2025 Goals
+## 🔨 Building
 
-- Complete and share multiple hands-on projects here on GitHub
-- Build a personal portfolio website to track my growth
-- Contribute to a few open-source project
-- Get comfortable with databases like MongoDB and PostgreSQL
-
----
-
-## 💡 Ideas I Want to Explore
-
-- Creating a blog platform or task manager from scratch
-- Writing Python scripts to automate boring tasks
-- Testing and debugging workflows for web apps
-- Exploring cloud platforms (AWS, GCP) for deployment
+* Machine Learning projects from scratch
+* AI-powered applications and workflows
+* LLM-based tools and automation systems
+* End-to-end projects that solve practical problems
 
 ---
 
-## ✨ Fun Facts About Me
+## 🧠 Areas of Interest
 
-- I'm self-taught and sharing my learning journey in public
-- I love debugging — it's like solving little puzzles
-- Coding + coffee = my happy place ☕💻
+* Artificial Intelligence
+* Machine Learning
+* Generative AI
+* Natural Language Processing (NLP)
+* AI Agents
+* Computer Vision
+* Automation Systems
 
 ---
 
-## 📫 Let’s Connect
+## 🛠️ Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/vinayak-kushwaha-a194b01a6/
-- Portfolio: will update it soon, stay tuned!
-- Twitter: https://x.com/Vinayakstwt
-- Email: ku.vinayak2024@gmail.com
+**Languages:** Python, Java, SQL
+
+**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, Git, GitHub, Docker, Jupyter Notebook, VS Code
+
+**Exploring:** TensorFlow, PyTorch, AWS, Azure
+
 ---
 
-Thanks for visiting my GitHub! Stay tuned as I grow and build cool stuff 🚀
+## 🎯 Mission
+
+To build impactful AI solutions, continuously improve my craft, and turn cutting-edge AI technologies into products that create real-world value.
+
+---
+
+## 📫 Let's Connect
+
+* LinkedIn: [www.linkedin.com/in/vinayak-kushwaha-a194b01a6](http://www.linkedin.com/in/vinayak-kushwaha-a194b01a6)
+* X: x.com/Vinayakstwt
+* Email: [ku.vinayak2024@gmail.com](mailto:ku.vinayak2024@gmail.com)
+
+---
+
+🚀 Building with AI.
+☕ Fueled by coffee and curiosity.
